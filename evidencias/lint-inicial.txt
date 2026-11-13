@@ -1,0 +1,10 @@
+
+C:\Users\klebe\OneDrive\Documentos\VS Code Workspace\Modulo de descuentos\src\descuentos.js
+  2:2   error  Unexpected var, use let or const instead  no-var
+  3:12  error  Expected '===' and instead saw '=='       eqeqeq
+  3:21  error  Expected { after 'if' condition           curly
+  4:24  error  Expected { after 'if' condition           curly
+  5:2   error  Unexpected var, use let or const instead  no-var
+
+✖ 5 problems (5 errors, 0 warnings)
+  4 errors and 0 warnings potentially fixable with the `--fix` option.

@@ -1,0 +1,30 @@
+{
+  "name": "modulo-de-descuentos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/descuentos.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KleberTipantiza/Modulo-de-descuentos-para-tienda-digital.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KleberTipantiza/Modulo-de-descuentos-para-tienda-digital/issues"
+  },
+  "homepage": "https://github.com/KleberTipantiza/Modulo-de-descuentos-para-tienda-digital#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.14.0",
+    "globals": "^17.14.0"
+  }
+}
