@@ -1,0 +1,1 @@
+ESLint sobre src/ en commit [hash]: 0 errores, 0 advertencias.
