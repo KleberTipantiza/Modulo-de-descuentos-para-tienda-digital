@@ -1,0 +1,1 @@
+ESLint sobre src/ en commit "fix: corrige no-var, eqeqeq y curly; guarda análisis final de ESLint": 0 errores, 0 advertencias.
